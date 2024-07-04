@@ -18,8 +18,7 @@
 │   ├── sample_submission.csv
 │   ├── state.json
 │   ├── test.csv
-│   └── train.csv
-├── databricks-dolly-15k.jsonl    
+│   └── train.csv  
 ├── main.ipynb
 ├── requirements.txt
 └── result                         # Fine-tuned model.
