@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb7ea43-dd80-4731-9951-75c0959d0834" name="변경" comment="FIX: csv to jsonl" />
+    <list default="true" id="5bb7ea43-dd80-4731-9951-75c0959d0834" name="변경" comment="FIX: csv to jsonl">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +23,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sonhy02/INHA-DACON",
-    "accountId": "6b71344a-3514-4ce8-8654-9f7b7c3f3485"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sonhy02/INHA-DACON&quot;,
+    &quot;accountId&quot;: &quot;6b71344a-3514-4ce8-8654-9f7b7c3f3485&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -89,6 +91,7 @@
       <workItem from="1719939085091" duration="1510000" />
       <workItem from="1720027771763" duration="1382000" />
       <workItem from="1720084630953" duration="14822000" />
+      <workItem from="1720121713688" duration="8612000" />
     </task>
     <task id="LOCAL-00001" summary="FIX: csv to jsonl">
       <option name="closed" value="true" />
