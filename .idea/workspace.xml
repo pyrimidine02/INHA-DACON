@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb7ea43-dd80-4731-9951-75c0959d0834" name="변경" comment="FIX: csv to jsonl">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lora_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lora_v2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5bb7ea43-dd80-4731-9951-75c0959d0834" name="변경" comment="FIX: csv to jsonl" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +88,7 @@
       <workItem from="1719936917212" duration="784000" />
       <workItem from="1719939085091" duration="1510000" />
       <workItem from="1720027771763" duration="1382000" />
-      <workItem from="1720084630953" duration="14147000" />
+      <workItem from="1720084630953" duration="14822000" />
     </task>
     <task id="LOCAL-00001" summary="FIX: csv to jsonl">
       <option name="closed" value="true" />
