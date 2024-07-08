@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb7ea43-dd80-4731-9951-75c0959d0834" name="변경" comment="FIX: csv to jsonl">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/submission_0707.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/submission_0707_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/submission_0707_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/submission_0707_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/submission_0708.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/submission_0705.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +40,9 @@
     &quot;accountId&quot;: &quot;6b71344a-3514-4ce8-8654-9f7b7c3f3485&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -43,22 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.example_chat_completion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.example_chat_completion.executor": "Run",
+    "Python.temp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.file": "/Users/sonhoyoung/Documents/Codes/Python/LLM/result/submission_0708.csv",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +103,10 @@
       <workItem from="1719939085091" duration="1510000" />
       <workItem from="1720027771763" duration="1382000" />
       <workItem from="1720084630953" duration="14822000" />
-      <workItem from="1720121713688" duration="8612000" />
+      <workItem from="1720121713688" duration="9898000" />
+      <workItem from="1720331401449" duration="990000" />
+      <workItem from="1720332795307" duration="8932000" />
+      <workItem from="1720357166930" duration="11138000" />
     </task>
     <task id="LOCAL-00001" summary="FIX: csv to jsonl">
       <option name="closed" value="true" />
